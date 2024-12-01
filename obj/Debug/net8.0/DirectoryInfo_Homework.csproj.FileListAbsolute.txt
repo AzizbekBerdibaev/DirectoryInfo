@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DirectoryInfo_Homework\bin\Debug\net8.0\DirectoryInfo_Homework.exe
+C:\Users\User\source\repos\DirectoryInfo_Homework\bin\Debug\net8.0\DirectoryInfo_Homework.deps.json
+C:\Users\User\source\repos\DirectoryInfo_Homework\bin\Debug\net8.0\DirectoryInfo_Homework.runtimeconfig.json
+C:\Users\User\source\repos\DirectoryInfo_Homework\bin\Debug\net8.0\DirectoryInfo_Homework.dll
+C:\Users\User\source\repos\DirectoryInfo_Homework\bin\Debug\net8.0\DirectoryInfo_Homework.pdb
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\DirectoryInfo_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\DirectoryInfo_Homework.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\DirectoryInfo_Homework.AssemblyInfo.cs
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\DirectoryInfo_Homework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\DirectoryInfo_Homework.dll
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\refint\DirectoryInfo_Homework.dll
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\DirectoryInfo_Homework.pdb
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\DirectoryInfo_Homework.genruntimeconfig.cache
+C:\Users\User\source\repos\DirectoryInfo_Homework\obj\Debug\net8.0\ref\DirectoryInfo_Homework.dll
